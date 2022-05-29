@@ -1,0 +1,139 @@
+{
+    
+    "_MALESEX_STATS": {
+        "RU": "Cтатистика по детям",
+        "EN": "Children's statistics", 
+        "CH": "男子统计",
+        "UA": "Дитяча статистика",
+        "LT": "Klanų sąrašas"
+    },
+    "_TITLE": {
+        "RU": "Cтатистика по детям",
+        "EN": "Children's statistics", 
+        "CH": "男子统计",
+        "UA": "Дитяча статистика",
+        "LT": "Klanų sąrašas"
+    },
+    "_DESCRIPTION": {
+        "RU": "Cтатистика по детям",
+        "EN": "Children's statistics", 
+        "CH": "男子统计",
+        "UA": "Дитяча статистика",
+        "LT": "Klanų sąrašas"
+    },
+
+    "_NAME": {
+        "RU": "Игрок",
+        "EN": "Player", 
+        "CH": "",
+        "UA": "Гравець",
+        "LT": ""
+    },
+    "_COUNT_SEX": {
+        "RU": "Сколько раз",
+        "EN": "How many times", 
+        "CH": "",
+        "UA": "Скільки раз",
+        "LT": ""
+    },
+    "_COUNT_CHILDREN": {
+        "RU": "Дети",
+        "EN": "", 
+        "CH": "",
+        "UA": "",
+        "LT": ""
+    },
+    "_COUNT_UNCHILDREN": {
+        "RU": "Убитые дети",
+        "EN": "Children", 
+        "CH": "",
+        "UA": "Діти",
+        "LT": ""
+    },
+    "lengthMenu": {
+        "RU": "Показать _MENU_ записи ",
+        "EN": "Show _MENU_ entries", 
+        "CH": "",
+        "UA": "Показати _MENU_ записи",
+        "LT": ""
+    },
+    "table_no_data": {
+        "RU": "Нет не одного игрока",
+        "EN": "No data available in table", 
+        "CH": "",
+        "UA": "Немає жодного гравця",
+        "LT": ""
+    },
+    "search": {
+        "RU": "Поиск",
+        "EN": "Search", 
+        "CH": "",
+        "UA": "Пошук",
+        "LT": ""
+    },
+    "next": {
+        "RU": "Следующая",
+        "EN": "Next", 
+        "CH": "",
+        "UA": "Наступна",
+        "LT": ""
+    },
+    "first": {
+        "RU": "Предыдущая",
+        "EN": "First", 
+        "CH": "",
+        "UA": "Попередній",
+        "LT": ""
+    },
+    "previous": {
+        "RU": "Предыдущая",
+        "EN": "First", 
+        "CH": "",
+        "UA": "",
+        "LT": ""
+    },
+    "last": {
+        "RU": "В начало",
+        "EN": "Start", 
+        "CH": "",
+        "UA": "На початок",
+        "LT": ""
+    },
+    "error_db_conect": {
+        "RU": "Не удалось подключиться к БД",
+        "EN": "Failed to connect to DB", 
+        "CH": "",
+        "UA": "Не вдалося підключитися до БД",
+        "LT": ""
+    },
+    "error_db_check_table": {
+        "RU": "Таблица уже существует",
+        "EN": "Table already exists", 
+        "CH": "",
+        "UA": "Таблиця вже існує",
+        "LT": ""
+    },
+    "error_db_host": {
+        "RU": "Не все поля заполнены",
+        "EN": "Not all fields are filled", 
+        "CH": "",
+        "UA": "Не всі поля заповнені",
+        "LT": ""
+    },
+    "module_install": {
+        "RU": "Настройки сохранены",
+        "EN": "settings have been saved", 
+        "CH": "",
+        "UA": "Налаштування збережені",
+        "LT": ""
+    },
+    "not_install": {
+        "RU": "Модуль не установлен!",
+        "EN": "Module not installed!", 
+        "CH": "",
+        "UA": "Модуль не встановлено!",
+        "LT": ""
+    }
+
+    
+}

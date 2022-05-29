@@ -1,0 +1,61 @@
+#example_wrapper input ,#example_wrapper select,#example_wrapper option, #example_wrapper label{
+    color: #b6bcbf;
+}
+
+#example_wrapper select option {
+    background-color: #222222;
+}
+
+td img {
+    max-width: 28px;
+    max-height: 16px
+}
+
+@media (max-width: 575.98px) {
+
+
+    td img {
+        max-width: 28px;
+        max-height: 16px
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    td img {
+        max-width: 43px;
+        max-height: 15px
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    td img {
+        max-width: 52px;
+        max-height: 18px
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    td img {
+        max-width: 52px;
+        max-height: 18px
+    }
+}
+@media (min-width: 1200px) and (max-width: 1499.98px) {
+
+
+    td img {
+        max-width: 55px;
+        max-height: 22px
+    }
+}
+@media (min-width: 1500px) {
+
+    td img {
+        max-width: 61px;
+        max-height: 24px
+    }
+}
