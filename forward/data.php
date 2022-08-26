@@ -2,7 +2,7 @@
 
 defined('IN_LR') != true && die();
 /*
- * @author Hodakovskiy <hodakovskiy@gmail.com>
+
  * 
  */
 
